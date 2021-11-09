@@ -36,13 +36,13 @@
     <string name="save_on_disk">使用磁盘缓存</string>
     <string name="save_on_disk_desc">（在基于闪存的设备上最好使用 RAM 或外部存储器）</string>
     <string name="remove_cache_on_drop">删除种子时清理下载缓存</string>
-    <string name="remove_cache_on_drop_desc">（如果禁用，删除 torrent 时缓存被删除）</string>
+    <string name="remove_cache_on_drop_desc">（如果禁用，删除种子时缓存将被删除）</string>
     <string name="force_encrypt">强制加密标头</string>
-    <string name="force_encrypt_desc">（可以帮助阻止 torrent 提供商）</string>
+    <string name="force_encrypt_desc">（可以帮助阻止种子提供商）</string>
     <string name="enable_ipv6">IPv6</string>
     <string name="enable_ipv6_desc">（仅在支持时启用</string>
     <string name="enable_debug">调试服务端日志</string>
-    <string name="enable_dlna">DLNA 媒体服务器</string>
+    <string name="enable_dlna">DLNA媒体服务器</string>
     <string name="disable_tcp">TCP - Transmission Control Protocol</string>
     <string name="disable_tcp_desc">(don\'t disable without μTP enabled)</string>
     <string name="disable_utp">μTP - Micro Transport Protocol</string>
@@ -182,7 +182,7 @@
     <string name="host_title">设置 TorrServer url 地址</string>
 
     <string name="host_authorization">服务端授权</string>
-    <string name="host_authorization_desc">通过“:”你能别填写用户名和密码（user:pass）</string>
+    <string name="host_authorization_desc">通过“:”分别填写用户名和密码（user:pass）</string>
 
     <string name="torserver_title">TorrServer 设置</string>
     <string name="torserver_summary">修改 TorrServer 设置</string>
@@ -218,7 +218,7 @@
     <string name="switch_accessibility_title">无障碍服务</string>
     <string name="switch_accessibility_summary_on">按下可禁用 TorrServe 服务</string>
 
-    <string name="stat_string_ added">Torrent 添加</string>
+    <string name="stat_string_ added">添加种子</string>
     <string name="stat_string_info">获取种子信息</string>
     <string name="stat_string_preload">预加载种子</string>
     <string name="stat_string_working">种子工作中</string>
